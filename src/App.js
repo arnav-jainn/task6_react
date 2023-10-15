@@ -12,7 +12,7 @@ const App = () => {
     ],
     projects: [
       {
-        title: "Prayush Giri | Portfolio Website",
+        title: "Arnav jain | Portfolio Website",
         description:
           "Explore my portfolio website, a dynamic showcase of my work powered by HTML, CSS, and JavaScript with the flexibility of Flexbox.",
       },
